@@ -2,7 +2,7 @@
 
 ## Acessar o banco PostgreSQL
 
-psql -h localhost -U postgres -d todo_db
+- psql -h localhost -U postgres -d todo_db
 
 ## Listar tabelas
 
